@@ -6,7 +6,7 @@
 
 - Github: [TKanX](https://github.com/TKanX)
 - Twitter: [Tony Kan](https://twitter.com/tianchengkan)
-- Instagram: [tianchengkan.kan](https://www.instagram.com/kantiancheng)
+- Instagram: [Tony Kan](https://www.instagram.com/kantiancheng)
 
 ### Technology Stack
 
