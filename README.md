@@ -69,3 +69,5 @@
 💞️ If you have any remote work opportunities, feel free to contact me. I look forward to the opportunity to collaborate with you.
 
 📫 How to reach me: Please contact me via my email [tianchengkan@gmail.com](mailto:tianchengkan@gmail.com).
+
+![Counter](https://counter.katomegumi.net/get/@TKanX?theme=rule34)
