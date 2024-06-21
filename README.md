@@ -8,6 +8,8 @@
 - Twitter: [Tony Kan](https://twitter.com/tianchengkan)
 - Instagram: [Tony Kan](https://www.instagram.com/kantiancheng)
 
+[![wakatime](https://wakatime.com/badge/user/832fa69c-93f3-414f-b372-c2853994ef03.svg)](https://wakatime.com/@832fa69c-93f3-414f-b372-c2853994ef03)
+
 ### Technology Stack
 
 **Languages**
