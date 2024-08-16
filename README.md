@@ -65,6 +65,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tkanx&rank=-C,-?)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkanx&hide_progress=true)
 
 🌱 I'm constantly learning and improving my technical skills to develop better applications and services.
 
