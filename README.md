@@ -2,13 +2,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tkanx&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
+[![wakatime](https://wakatime.com/badge/user/832fa69c-93f3-414f-b372-c2853994ef03.svg)](https://wakatime.com/@832fa69c-93f3-414f-b372-c2853994ef03)
+
 👀 I'm a high school student in the United States and full-stack developer. I'm proficient in front-end development (HTML/CSS/JavaScript), familiar with Node.js and Express.js server development, and also know languages like C++, C#, Python.
 
 - Github: [TKanX](https://github.com/TKanX)
 - Twitter: [Tony Kan](https://twitter.com/tianchengkan)
 - Instagram: [Tony Kan](https://www.instagram.com/kantiancheng)
 
-[![wakatime](https://wakatime.com/badge/user/832fa69c-93f3-414f-b372-c2853994ef03.svg)](https://wakatime.com/@832fa69c-93f3-414f-b372-c2853994ef03)
+![Trophy](https://github-profile-trophy.vercel.app/?username=tkanx&rank=-C,-?)
 
 ### Technology Stack
 
@@ -65,7 +67,6 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=tkanx&rank=-C,-?)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkanx&hide_progress=true)
 
 🌱 I'm constantly learning and improving my technical skills to develop better applications and services.
