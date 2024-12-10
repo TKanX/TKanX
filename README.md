@@ -8,7 +8,7 @@
 
 - Github: [TKanX](https://github.com/TKanX)
 - Twitter: [Tony Kan](https://twitter.com/tianchengkan)
-- Instagram: [Tony Kan](https://www.instagram.com/kantiancheng)
+- Instagram: [Tony Kan](https://www.instagram.com/tkan.x)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tkanx&rank=-C,-?)
 
