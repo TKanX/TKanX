@@ -6,11 +6,15 @@
 
 👀 I'm a high school student in the United States and full-stack developer. I'm proficient in front-end development (HTML/CSS/JavaScript), familiar with Node.js and Express.js server development, and also know languages like C++, C#, Python.
 
-- Github: [TKanX](https://github.com/TKanX)
-- Twitter: [Tony Kan](https://twitter.com/tianchengkan)
-- Instagram: [Tony Kan](https://www.instagram.com/tkan.x)
+📫 **Contact**: [Email me](mailto:tianchengkan@gmail.com) | [GitHub](https://github.com/TKanX) | [Twitter](https://twitter.com/tianchengkan) | [Instagram](https://www.instagram.com/tkan.x)
+
+🌱 Constantly learning and improving, with a strong interest in building applications, services, and creative projects.
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tkanx&rank=-C,-?)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkanx&hide_border=true)
+
+---
 
 ### Technology Stack
 
@@ -69,10 +73,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkanx&hide_progress=true)
 
-🌱 I'm constantly learning and improving my technical skills to develop better applications and services.
+---
 
-💞️ If you have any remote work opportunities, feel free to contact me. I look forward to the opportunity to collaborate with you.
-
-📫 How to reach me: Please contact me via my email [tianchengkan@gmail.com](mailto:tianchengkan@gmail.com).
+### More About Me
+- Dedicated to learning **low-level programming**, robotics, and aerospace-related technology.
+- Exploring **AI**, **robotics**, and **embedded systems** as I prepare for future challenges.
+- Available for **remote work opportunities** and collaborations.
 
 ![Counter](https://counter.katomegumi.net/get/@TKanX?theme=rule34)
