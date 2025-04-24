@@ -12,7 +12,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tkanx&rank=-C,-?)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkanx&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=tkanx&hide_border=true)
 
 ---
 
