@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/832fa69c-93f3-414f-b372-c2853994ef03.svg)](https://wakatime.com/@832fa69c-93f3-414f-b372-c2853994ef03)
 
-👀 I'm a high school student in the United States and full-stack developer. I'm proficient in front-end development (HTML/CSS/JavaScript), familiar with Node.js and Express.js server development, and also know languages like C++, C#, Python.
+👀 I'm a high school student building scientific software in Rust and C++ for computational chemistry research at Caltech. Working on force fields, molecular docking, and electronic structure methods.
 
 📫 **Contact**: [Email me](mailto:tianchengkan@gmail.com) | [GitHub](https://github.com/TKanX) | [Twitter](https://twitter.com/tianchengkan) | [Instagram](https://www.instagram.com/tkan.x)
 
