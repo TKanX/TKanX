@@ -78,4 +78,4 @@
 - Exploring **AI**, **robotics**, and **embedded systems** as I prepare for future challenges.
 - Available for **remote work opportunities** and collaborations.
 
-![Counter](https://counter.katomegumi.net/get/@TKanX?theme=rule34)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=TKanX&layout=compact)
